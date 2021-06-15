@@ -1,0 +1,2 @@
+["Custom Modules", "Spawn Resupply Crate", {[_this select 0]execVM "scripts\AmmoCrate.sqf"}] call zen_custom_modules_fnc_register;
+["Custom Modules", "Paradrop Resupply Crate", {[_this select 0]execVM "scripts\AmmoCratePara.sqf"}] call zen_custom_modules_fnc_register;
